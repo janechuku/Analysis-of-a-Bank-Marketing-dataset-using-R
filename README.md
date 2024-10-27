@@ -52,7 +52,7 @@ Using the corr function on R, below is a summary of the findings from the correl
 
 ![image](https://github.com/user-attachments/assets/f4dc7de1-18b2-47a8-9374-e562fc9e3713)
 
-### Analysis of the Campaign Strategy
+### Campaign Strategy Analysis
 
 It was important to assess the success of the campaign strategy to serve as a learning point for future campaigns. See the findings below:
 
